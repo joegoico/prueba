@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1654750617 source:d:\code blocks\tp\banco\main.cpp
+	<iostream>
+	"MesaEntrada.h"
+
+1654734650 source:d:\code blocks\tp\banco\src\filagral.cpp
+	"FilaGral.h"
+
+1654744987 d:\code blocks\tp\banco\include\filagral.h
+
+1654752665 d:\code blocks\tp\banco\include\cliente.h
+	<iostream>
+
+1654750915 d:\code blocks\tp\banco\include\mesaentrada.h
+	"Cliente.h"
+
