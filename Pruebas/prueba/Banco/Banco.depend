@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1654750617 source:d:\code blocks\tp\banco\main.cpp
+	<iostream>
+	"MesaEntrada.h"
+
+1654734650 source:d:\code blocks\tp\banco\src\filagral.cpp
+	"FilaGral.h"
+
+1654744987 d:\code blocks\tp\banco\include\filagral.h
+
+1654752665 d:\code blocks\tp\banco\include\cliente.h
+	<iostream>
+
+1654750915 d:\code blocks\tp\banco\include\mesaentrada.h
+	"Cliente.h"
+
+1654734650 source:c:\users\jmgoi\onedrive\escritorio\pruebas\prueba\banco\src\filagral.cpp
+	"FilaGral.h"
+
+1656034662 c:\users\jmgoi\onedrive\escritorio\pruebas\prueba\banco\include\filagral.h
+	"Cliente.h"
+
+1656040470 c:\users\jmgoi\onedrive\escritorio\pruebas\prueba\banco\include\cliente.h
+	<iostream>
+
+1656016570 source:c:\users\jmgoi\onedrive\escritorio\pruebas\prueba\banco\src\filaespecial.cpp
+	"filaEspecial.h"
+
+1656016633 c:\users\jmgoi\onedrive\escritorio\pruebas\prueba\banco\include\filaespecial.h
+
+1656048369 source:c:\users\jmgoi\onedrive\escritorio\pruebas\prueba\banco\main.cpp
+	<iostream>
+	"MesaEntrada.h"
+	"Cliente.h"
+
+1656048474 c:\users\jmgoi\onedrive\escritorio\pruebas\prueba\banco\include\mesaentrada.h
+
+1656038853 source:c:\users\jmgoi\onedrive\escritorio\pruebas\prueba\banco\src\punto.cpp
+	"punto.h"
+
+1656038852 c:\users\jmgoi\onedrive\escritorio\pruebas\prueba\banco\include\punto.h
+
+1656040483 source:c:\users\jmgoi\onedrive\escritorio\pruebas\prueba\banco\src\cliente.cpp
+	"CLIENTE.h"
+	<iostream>
+
+1656048403 source:c:\users\jmgoi\onedrive\escritorio\pruebas\prueba\banco\src\mesaentrada.cpp
+	"MesaEntrada.h"
+
